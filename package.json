@@ -18,7 +18,7 @@
   "build":{"artifactName": "setup-${version}.${ext}"},
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/shyamjptpm/electron-auto-update.gits"
+    "url" : "https://github.com/shyamjptpm/electron-auto-update.git"
   },
   "dependencies": {
     "electron-updater": "^4.2.5"
