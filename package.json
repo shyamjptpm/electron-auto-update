@@ -1,0 +1,23 @@
+{
+  "name": "electron-auto-update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.2.2",
+    "electron-builder": "^22.4.1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/shyamjptpm/electron-auto-update.git"
+  },
+  "dependencies": {
+    "electron-updater": "^4.2.5"
+  }
+}
